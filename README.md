@@ -8,19 +8,19 @@ and learning new technologies.
 
 TECH STACK 🚀
 
-Backend
+Backend 💻
   - .NET / ASP.NET Core
   - Entity Framework Core
   - REST API
   - gRPC
   - Microservices Architecture
 
-Databases
+Databases 🗃️
   - PostgreSQL
   - MS SQL Server
   - MongoDB
 
-Messaging & Infrastructure
+Messaging & Infrastructure ✉️
   - RabbitMQ
   - Docker
   - K8s
